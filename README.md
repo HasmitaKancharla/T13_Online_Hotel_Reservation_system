@@ -1,4 +1,3 @@
-# T13_Online_Hotel_Reservation_system
 # T13_Online_Hotel_Reservation_System
 
 ## Brief Overview
