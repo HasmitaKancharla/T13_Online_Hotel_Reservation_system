@@ -3,8 +3,8 @@
 ## Brief Overview
 The Online Hotel Reservation System (OHRS) is a comprehensive database management project designed to simplify the hotel booking and management processes. The primary goal of this project is to create, implement, and maintain a robust OHRS to elevate efficiency, precision, and transparency in handling hotel reservations and related operations.
 * Establish a centralized database for hotel rooms and categories to facilitate efficient management.
-* Implement real-time room availability monitoring for optimal utilization and seamless guest booking experiences.
-* Enhance order processing capabilities, ensuring swift and error-free reservations.
+* Implement real-time room availability monitoring for optimal utilization and seamless guest booking experiences
+* Enhance order processing capabilities, ensuring swift and error-free reservations
 * Provide an intuitive user interface for both guests and hotel staff, minimizing the learning curve.
 * Enable comprehensive reporting and analytics, including user reviews for future enhancements.
 * Implement role-based access control to preserve data privacy.
